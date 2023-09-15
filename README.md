@@ -1,5 +1,4 @@
-# hackathon-doc
-software install: 
+# software install: 
       #idea download:
       https://www.jetbrains.com/idea/download/?ij80pr=&section=windows
      
@@ -29,8 +28,7 @@ Passcode: Y4j1T!
 
 
 
-
-      # hackathon resource:
+# hackathon resource:
       # MYSQL LINK: 
       jdbc:mysql://carnivalmysql.mysql.database.azure.com:3306/carnivaldb
       account:  carnival/Hackathon2023
