@@ -16,6 +16,8 @@
 
       #maven
       https://maven.apache.org/install.html
+      # postman
+      https://www.postman.com/downloads/
 
 # meeting number:
 Join Zoom Meeting
